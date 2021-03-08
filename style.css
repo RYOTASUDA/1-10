@@ -71,13 +71,13 @@ footer {
   }
 
   main {
-    width: 90%;
+    width: 100%;
     display: block;
     margin: 50px auto;
   }
 
   .main-visual {
-    margin-bottom: 20px;
+    margin: 5% 0 20px 5%;
     width: 90%;
   }
 
